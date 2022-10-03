@@ -78,7 +78,30 @@ namespace womenJeans{
         typeStraight.premium501c8 = "Destructed Light Indigo";
         typeStraight.premium501c9 = "Worn in Medium Indigo";
 
-        
+        typeStraight.premiumninetiesc1 = "Destructed Indigo";
+        typeStraight.premiumninetiesc1 = "Sketch Artist";
+        typeStraight.premiumninetiesc3 = "Firestarter";
+        typeStraight.premiumninetiesc4 = "Mad Love";
+        typeStraight.premiumninetiesc5 = "Worn in Light Indigo";
+        typeStraight.premiumninetiesc6 = "Drew Me In";
+
+        typeStraight.premium701c1 = "Home Cooked Blue";
+        typeStraight.premium701c2 = "Worn in Blue";
+        typeStraight.premium701c3 = "Rigid";
+
+        typeStraight.premium724c1 = "Destructed Dark Indigo";
+        typeStraight.premium724c2 = "Slate - Light Wash";
+        typeStraight.premium724c3 = "Soft Black";
+        typeStraight.premium724c4 = "Black Pixel";
+        typeStraight.premium724c5 = "Cast Shadows";
+        typeStraight.premium724c6 = "Slate - Medium Wash";
+        typeStraight.premium724c7 = "Chelsea Pier";
+        typeStraight.premium724c8 = "Worn in Dark Indigo";
+        typeStraight.premium724c9 = "Slate - Light Wash";
+        typeStraight.premium724c10 = "Slate Ideal Clean Hem";
+        typeStraight.premium724c11 = "Dutch Pink";
+        typeStraight.premium724c12 = "Carbon Glow";
+
         }
 
 
