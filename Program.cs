@@ -147,12 +147,128 @@ namespace womenJeans{
 
         }
             
-            
         }
-    class Straight{}
-    class Tapered{}
-    class Relaxed{}
-    class Loose{}
+    class typeSkinny{
+        public string premium311c1;
+        public string premium311c2;
+        public string premium311c3;
+        public string premium311c4;
+        public string premium311c5;
+        public string premium311c6;
+        public string premium311c7;
+        public string premium311c8;
+        public string premium311c9;
+        public string premium311c10;
+        public string premium311c11;
+        public string premium311c12;
+        public string premium501c1;
+        public string premium501c2;
+        public string premium501c3;
+        public string premium501c4;
+        public string premium501c5;
+        public string premium501c6;
+        public string premium501c7;
+        public string premium501c8;
+        public string premium710c1;
+        public string premium710c2;
+        public string premium710c3;
+        public string premium710c4;
+        public string premium710c5;
+        public string premium710c6;
+        public string premium711c1;
+        public string premium711c2;
+        public string premium711c3;
+        public string premium711c4;
+        public string premium711c5;
+        public string premium711c6;
+        public string premium711c7;
+        public string premium711c8;
+        public string premium711c9;
+        public string premium711c10;
+        public string premium711c11;
+        public string premium711c12;
+        public string premium711c13;
+        public string premium711c14;
+        public string premium711c15;
+        public string premium720c1;
+        public string premium720c2;
+        public string premium720c3;
+        public string premium720c4;
+        public string premium720c5;
+        public string premium720c6;
+        public string premium720c7;
+        public string premium720c8;
+        public string premium720c9;
+        public string premium720c10;
+        public string premium720c11;
+        public string premium720c12;
+        public string premium721c1;
+        public string premium724c1;
+        
+        static void Skinny(string[] args){
+            typeSkinny.premium311c1 = "Lapis Storm";
+            typeSkinny.premium311c2 = "Maui Views Dark Wash";
+            typeSkinny.premium311c3 = "Hawaii Ocean Light Wash";
+            typeSkinny.premium311c4 = "Oahu Morning Dew Light Wash";
+            typeSkinny.premium311c5 = "Soft Black";
+            typeSkinny.premium311c6 = "Marine Offbeat";
+            typeSkinny.premium311c7 = "Chelsea All Day";
+            typeSkinny.premium311c8 = "Grey Slumber";
+            typeSkinny.premium311c9 = "Tribeca File";
+            typeSkinny.premium311c10 = "Darkest Sky";
+            typeSkinny.premium311c11 = "Lapis Gollup";
+            typeSkinny.premium311c12 = "Cobalt Honor";
+
+            typeSkinny.premium501c1 = "Can't Touch This";
+            typeSkinny.premium501c2 = "Jive Ship";
+            typeSkinny.premium501c3 = "Cabo Rise";
+            typeSkinny.premium501c4 = "Tango Light";
+            typeSkinny.premium501c5 = "Cloud Over";
+            typeSkinny.premium501c6 = "Black Licorice";
+            typeSkinny.premium501c7 = "Destructed Light Indigo";
+            typeSkinny.premium501c8 = "Destructed Medium Indigo";
+
+            typeSkinny.premium710c1 = "Secluded Echo";
+            typeSkinny.premium710c2 = "Dusk Rinse";
+            typeSkinny.premium710c3 = "Ontario Stonewash";
+            typeSkinny.premium710c4 = "Worn In Dark Indigo";
+            typeSkinny.premium710c5 = "Wandering Mind";
+            typeSkinny.premium710c6 = "Ontario Spring Light Wash";
+
+            typeSkinny.premium711c1 = "Soft Black";
+            typeSkinny.premium711c2 = "Parade";
+            typeSkinny.premium711c3 = "Lapis Breakdown";
+            typeSkinny.premium711c4 = "Slate Ideal Clean Hem";
+            typeSkinny.premium711c5 = "Lapis Joy";
+            typeSkinny.premium711c6 = "Lapis Decibel";
+            typeSkinny.premium711c7 = "Lapis Stop";
+            typeSkinny.premium711c8 = "Soho Climb";
+            typeSkinny.premium711c9 = "Indigo Ridge";
+            typeSkinny.premium711c10 = "Cobalt Overboard";
+            typeSkinny.premium711c11 = "Cast Shadows";
+            typeSkinny.premium711c12 = "Astro Indigo";
+            typeSkinny.premium711c13 = "Clean White";
+            typeSkinny.premium711c14 = "Tribeca Hustle";
+            typeSkinny.premium711c15 = "Slate Medium Wash";
+
+            typeSkinny.premium720c1 = "Indigo Daze";
+            typeSkinny.premium720c2 = "Black Squared";
+            typeSkinny.premium720c3 = "Indigo Atlas";
+            typeSkinny.premium720c4 = "Worn In Medium Indigo";
+            typeSkinny.premium720c5 = "Ontario Noise";
+            typeSkinny.premium720c6 = "Worn In Medium Indigo";
+            typeSkinny.premium720c7 = "Queubec Autumn";
+            typeSkinny.premium720c8 = "Ring the Alarm";
+
+
+        }
+    }
+    class typeTapered{}
+    class typeRelaxed{}
+    class typeLoose{}
+
+    class typeBootcut{}
+
 
 
 }
