@@ -105,12 +105,55 @@ namespace womenJeans{
         }
 
 
+    class typeSlim{
+        public string premium312c1;
+        public string premium312c2;
+        public string premium312c3;
+        public string premium312c4;
+        public string premium312c5;
+        public string premium724c1;
+        public string premium724c2;
+        public string premium724c3;
+        public string premium724c4;
+        public string premium724c5;
+        public string premium724c6;
+        public string premium724c7;
+        public string premium724c8;
+        public string premium724c9;
+        public string premium724c10;
+        public string premium724c11;
+        public string premium724c12;
 
-    }
-    class Slim{}
+
+        static void womenSlim(string[] args){
+            typeSlim.premium312c1 = "Darkest Sky";
+            typeSlim.premium312c2 = "Cobalt Haze";
+            typeSlim.premium312c3 = "Lapis Breeze";
+            typeSlim.premium312c4 = "Soft Black";
+            typeSlim.premium312c5 = "Lapis Outsider";
+
+            typeSlim.premium724c1 = "Destructed Dark Indigo";
+            typeSlim.premium724c2 = "Slate - Light Wash";
+            typeSlim.premium724c3 = "Soft Black";
+            typeSlim.premium724c4 = "Black Pixel";
+            typeSlim.premium724c5 = "Cast Shadows";
+            typeSlim.premium724c6 = "Slate - Medium Wash";
+            typeSlim.premium724c7 = "Chelsea Pier";
+            typeSlim.premium724c8 = "Worn in Dark Indigo";
+            typeSlim.premium724c9 = "Slate - Light Wash";
+            typeSlim.premium724c10 = "Slate Ideal Clean Hem";
+            typeSlim.premium724c11 = "Dutch Pink";
+            typeSlim.premium724c12 = "Carbon Glow";
+
+        }
+            
+            
+        }
     class Straight{}
     class Tapered{}
     class Relaxed{}
     class Loose{}
 
+
+}
 
