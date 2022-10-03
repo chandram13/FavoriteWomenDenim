@@ -203,9 +203,24 @@ namespace womenJeans{
         public string premium720c11;
         public string premium720c12;
         public string premium721c1;
-        public string premium724c1;
+        public string premium721c2;
+        public string premium721c3;
+        public string premium721c4;
+        public string premium721c5;
+        public string premium721c6;
+        public string premium721c7;
+        public string premium721c8;
+        public string premium721c9;
+        public string premium721c10;
+        public string premium721c11;
+        public string premium724plusc1;
+        public string premium724plusc2;
+        public string premium724plusc3;
+        public string premium724plusc4;
+        public string premium724plusc5;
+
         
-        static void Skinny(string[] args){
+        static void womenSkinny(string[] args){
             typeSkinny.premium311c1 = "Lapis Storm";
             typeSkinny.premium311c2 = "Maui Views Dark Wash";
             typeSkinny.premium311c3 = "Hawaii Ocean Light Wash";
@@ -259,7 +274,32 @@ namespace womenJeans{
             typeSkinny.premium720c6 = "Worn In Medium Indigo";
             typeSkinny.premium720c7 = "Queubec Autumn";
             typeSkinny.premium720c8 = "Ring the Alarm";
+            typeSkinny.premium720c9 = "Destructed Dark Indigo";
+            typeSkinny.premium720c10 = "Victory";
+            typeSkinny.premium720c11 = "Worn in Black";
+            typeSkinny.premium720c12 = "Toronto Off";
+            typeSkinny.premium720c13 = "Ontario Arrival";
+            typeSkinny.premium720c14 = "Destructed Medium Indigo";
+            typeSkinny.premium720c15 = "Echo Chamber";
 
+            typeSkinny.premium721c1 = "Lapis Air";
+            typeSkinny.premium721c2 = "Blue Story";
+            typeSkinny.premium721c3 = "Soft Black";
+            typeSkinny.premium721c4 = "Chelsea Eve";
+            typeSkinny.premium721c5 = "Cast Shadows";
+            typeSkinny.premium721c6 = "Chelsea Bend";
+            typeSkinny.premium721c7 = "Lapis Gem";
+            typeSkinny.premium721c8 = "Azure Mood Light Gem";
+            typeSkinny.premium721c9 = "Lapis Pink";
+            typeSkinny.premium721c10 = "Lapis Longing";
+            typeSkinny.premium721c11 = "Soft Clean White";
+
+            typeSkinny.premium724plusc1 = "Slate";
+            typeSkinny.premium724plusc2 = "Medium";
+            typeSkinny.premium724plusc3 = "Soft Black";
+            typeSkinny.premium724plusc4 = "Worn in Medium Indigo";
+            typeSkinny.premium724plusc5 = "Cast Shadows";
+            
 
         }
     }
